@@ -10,5 +10,8 @@ Post-Deployment Script Template
 --------------------------------------------------------------------------------------
 */
 
-:r 1.1.sql
-:r 1.3.sql
+:r .\1.1.sql
+:r .\1.3.sql
+:r .\InsertCategories.sql
+:r .\InsertSuppliers.sql
+:r .\InsertProducts.sql
